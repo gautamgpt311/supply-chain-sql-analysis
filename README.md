@@ -71,7 +71,7 @@ The dataset also had date values in US format (MM/DD/YYYY HH:MM) which MySQL cou
 ├── phase1_data_exploration.sql
 ├── phase2_delivery_performance.sql
 ├── phase3_profit_revenue_analysis.sql
-├── phase4_fraud_detection.sql
+├── phase4_fraud_detection_analysis.sql
 ├── phase5_customer_market_intelligence.sql
 └── README.md
 ```
